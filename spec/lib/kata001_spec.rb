@@ -1,4 +1,4 @@
-require File.dirname(__FILE__)+"/../../lib/kata001"
+require File.dirname(__FILE__)+"/../spec_helper"
 
 describe Kata001, 'valid phone number' do
   it 'should be true' do
