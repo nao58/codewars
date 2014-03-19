@@ -6,5 +6,4 @@ begin
     spec.rspec_opts = ['-cfs']
   end
 rescue LoadError => e
-  p e
 end
