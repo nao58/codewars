@@ -9,5 +9,6 @@ describe Kata001, 'valid phone number' do
     Kata001.valid_phone_number("(098) 123 2345").should be_false
     Kata001.valid_phone_number("0(123) 456-7890").should be_false
     Kata001.valid_phone_number("(123) 456-7890x").should be_false
+    Kata001.valid_phone_number("(123)  456-7890").should be_false
   end
 end
