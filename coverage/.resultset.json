@@ -7,8 +7,33 @@
         6,
         null,
         null
+      ],
+      "/Users/nao58/dev/codewars/lib/kata002.rb": [
+        1,
+        1,
+        1,
+        1,
+        10,
+        10,
+        10,
+        10,
+        10,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/nao58/dev/codewars/spec/lib/kata002_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
       ]
     },
-    "timestamp": 1395213438
+    "timestamp": 1395215642
   }
 }
